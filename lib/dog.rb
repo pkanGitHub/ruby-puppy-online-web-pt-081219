@@ -26,4 +26,5 @@ class Dog
   end
 end
 
-p dog = Dog.new("Happy")
+p dog
+
