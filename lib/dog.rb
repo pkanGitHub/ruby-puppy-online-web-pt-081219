@@ -25,5 +25,3 @@ class Dog
     @@all << self
   end
 end
-
-p dog = Dog.new("Happy")
