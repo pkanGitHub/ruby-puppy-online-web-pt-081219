@@ -27,4 +27,3 @@ class Dog
 end
 
 p dog
-
